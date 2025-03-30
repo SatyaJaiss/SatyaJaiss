@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
-- 🔭 I'm a **MERN Stack Developer**
-
-- 🌱 I’m aspiring as **Machine Learning Engineer**
+- 🔭 I'm a **MERN Stack Developer** and **Machine Learning Enthusiast**
 
 - 👯 Currently pursuing **B.Tech with Computer Science(2nd Year)**
 
