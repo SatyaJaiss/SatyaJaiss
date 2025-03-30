@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
-- 🔭 I'm a <strong>MERN Stack Developer</strong> and <strong>Machine Learning Enthusiast</strong>
-
-- 👯 Currently pursuing **B.Tech with Computer Science(2nd Year)**
-
-- 💬 Ask me about **MERN Stack, DSA, C++ programming**
-
-- 📫 How to reach me **satyamjais4981@gmail.com**
+<h2>About Me</h2>
+<ul>
+  <li>🔭 I'm a <strong>MERN Stack Developer</strong> and <strong>Machine Learning Enthusiast</strong></li>
+  <li>👯 Currently pursuing **B.Tech with Computer Science(2nd Year)**</li>
+  <li>💬 Ask me about **MERN Stack, DSA, C++ programming**</li>
+  <li>📫 How to reach me **satyamjais4981@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
