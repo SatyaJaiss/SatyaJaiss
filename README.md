@@ -2,9 +2,9 @@
 <h2>About Me</h2>
 <ul>
   <li>🔭 I'm a <strong>MERN Stack Developer</strong> and <strong>Machine Learning Enthusiast</strong></li>
-  <li>👯 Currently pursuing **B.Tech with Computer Science(2nd Year)**</li>
-  <li>💬 Ask me about **MERN Stack, DSA, C++ programming**</li>
-  <li>📫 How to reach me **satyamjais4981@gmail.com**</li>
+  <li>👯 Currently pursuing <strong>B.Tech in Computer Science and Engg. (2nd yr)</strong> </li>
+  <li>💬 Ask me about <strong>MERN Stack, DSA, C++ programming</strong> </li>
+  <li>📫 How to reach me <strong><a href="mailto:satyamjais4981@gmail.com">satyamjais4981@gmail.com</a></strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
