@@ -1,3 +1,4 @@
+<img src="Black and Yellow Web Developer LinkedIn Banner (3).png" alt="Banner" /> 
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
 <h2>About Me</h2>
 <ul>
