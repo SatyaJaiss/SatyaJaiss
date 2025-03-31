@@ -79,7 +79,12 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
+<h3>Also see: </h3>
+
+[![An image of @satyajaiss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyajaiss)](https://holopin.io/@satyajaiss)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajaiss&show_icons=true&locale=en&layout=compact" alt="satyajaiss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyajaiss&show_icons=true&locale=en" alt="satyajaiss" /></p>
+
+
